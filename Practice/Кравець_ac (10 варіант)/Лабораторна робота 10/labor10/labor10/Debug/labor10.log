@@ -1,0 +1,20 @@
+﻿  logical_operations.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,20): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,20): warning C4309: 'initializing': truncation of constant value
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,24): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,24): warning C4309: 'initializing': truncation of constant value
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,28): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,28): warning C4309: 'initializing': truncation of constant value
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,32): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,32): warning C4309: 'initializing': truncation of constant value
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,36): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,36): warning C4309: 'initializing': truncation of constant value
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,40): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,40): warning C4309: 'initializing': truncation of constant value
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,44): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,44): warning C4309: 'initializing': truncation of constant value
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,48): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(6,48): warning C4309: 'initializing': truncation of constant value
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(67,4): warning C4102: 'zeroingLast': unreferenced label
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\labor10\logical_operations.cpp(74,1): warning C4102: 'firstIterAfterRefill': unreferenced label
+  labor10.vcxproj -> D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 10\labor10\Debug\labor10.exe

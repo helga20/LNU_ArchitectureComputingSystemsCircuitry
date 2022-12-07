@@ -1,0 +1,6 @@
+﻿  lab9.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\lab9\lab9\lab9.cpp(12,4): warning C4102: 'start': unreferenced label
+D:\STOP! Небезпечно для життя\А я попереджала\lab9\lab9\lab9.cpp(16,1): warning C4102: 'x_less_equal_a': unreferenced label
+D:\STOP! Небезпечно для життя\А я попереджала\lab9\lab9\lab9.cpp(24,1): warning C4102: 'x_less_0': unreferenced label
+D:\STOP! Небезпечно для життя\А я попереджала\lab9\lab9\lab9.cpp(32,1): warning C4102: 'alesserEq3': unreferenced label
+  lab9.vcxproj -> D:\STOP! Небезпечно для життя\А я попереджала\lab9\Debug\lab9.exe
