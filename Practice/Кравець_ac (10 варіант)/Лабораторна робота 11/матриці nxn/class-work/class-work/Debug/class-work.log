@@ -1,0 +1,6 @@
+﻿  class_work.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\class-work\class-work\class_work.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\STOP! Небезпечно для життя\А я попереджала\class-work\class-work\class_work.cpp(73,1): warning C4102: 'a_to_eax': unreferenced label
+D:\STOP! Небезпечно для життя\А я попереджала\class-work\class-work\class_work.cpp(78,6): warning C4102: 'b_to_ebx': unreferenced label
+D:\STOP! Небезпечно для життя\А я попереджала\class-work\class-work\class_work.cpp(83,6): warning C4102: 'end': unreferenced label
+  class-work.vcxproj -> D:\STOP! Небезпечно для життя\А я попереджала\class-work\Debug\class-work.exe
