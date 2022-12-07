@@ -1,0 +1,47 @@
+﻿  leapYear.cpp
+  productNumbers.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(7,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(10,4): error C2065: 'mov': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(10,8): error C2146: syntax error: missing ';' before identifier 'edx'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(10,8): error C2065: 'edx': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(11,4): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(11,4): error C2065: 'mov': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(11,8): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(11,8): error C2065: 'eax': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(12,4): error C2146: syntax error: missing ';' before identifier 'div'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(12,8): error C2146: syntax error: missing ';' before identifier 'ten'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(12,4): warning C4551: function call missing argument list
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(12,8): error C2065: 'ten': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(13,4): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(13,4): error C2065: 'mov': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(13,8): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(13,8): error C2065: 'eax': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(13,13): error C2065: 'edx': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(14,4): error C2146: syntax error: missing ';' before identifier 'add'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(14,4): error C2065: 'add': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(14,8): error C2146: syntax error: missing ';' before identifier 'summa'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(14,8): error C2065: 'summa': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(14,15): error C2065: 'eax': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(16,2): error C2146: syntax error: missing ';' before identifier 'ml'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(17,4): error C2065: 'mov': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(17,8): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(17,8): error C2065: 'eax': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(18,4): error C2146: syntax error: missing ';' before identifier 'div'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(18,8): error C2146: syntax error: missing ';' before identifier 'ten'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(18,4): warning C4551: function call missing argument list
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(18,8): error C2065: 'ten': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(19,4): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(19,4): error C2065: 'mov': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(19,8): error C2146: syntax error: missing ';' before identifier 'number'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(19,16): error C2065: 'eax': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(20,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(20,4): error C2065: 'cmp': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(20,8): error C2146: syntax error: missing ';' before identifier 'ten'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(20,8): error C2065: 'ten': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(21,4): error C2146: syntax error: missing ';' before identifier 'jne'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(21,4): error C2065: 'jne': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(21,8): error C2146: syntax error: missing ';' before identifier 'mitka1'
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(21,8): error C2065: 'mitka1': undeclared identifier
+D:\STOP! Небезпечно для життя\А я попереджала\Архітектура ОС та КС (практичні)\Лабораторна робота 8\lab8\lab8\productNumbers.cpp(25,2): error C2143: syntax error: missing ';' before '}'
+  Generating Code...
